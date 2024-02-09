@@ -33,14 +33,4 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waasaty&theme=transparent" />
   </a>
 </p>
-<table><tr><td valign="top" width="33%">
-
-</div>
-
-</td></tr></table>  
-
-<br/>
-
-<br/>  
-
 </details>
