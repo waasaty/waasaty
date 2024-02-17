@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm waasaty
+        I'm MgIssue
     </i><br>
 </p>
 
