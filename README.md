@@ -1,4 +1,4 @@
-### <img src="" /> Hi, I'm MgIssue, i have been learning how to create designs in Figma for some time now!
+### <img src="238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" /> Hi, I'm MgIssue, i have been learning how to create designs in Figma for some time now!
 
 ----
 
