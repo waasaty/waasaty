@@ -3,7 +3,7 @@
 ----
 
 🛠️I’m currently working on:
-* [**MounthRolePlay**](https://discord.gg/mounthrp) discord
+* [**MounthRolePlay**](https://discord.gg/mounthrp)
 
 ----
 
