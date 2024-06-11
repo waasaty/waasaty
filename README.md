@@ -1,9 +1,11 @@
-### Hi, I'm MgIssue, i have been learning how to create designs in Figma for some time now!
+### Hi, I'm coutstd, i have been learning how to create designs in Figma for some time now!
 
 ----
 
 🛠️I’m currently working on:
 * [**MounthRolePlay**](https://discord.gg/mounthrp)
+* [**CIRCUS.FUN**](https://discord.gg/UGkzxuhVaD)
+* [**PEEKSENSE.WIN**](https://discord.gg/peeksense)
 
 ----
 
