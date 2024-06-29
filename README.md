@@ -3,9 +3,7 @@
 ----
 
 🛠️I’m currently working on:
-* [**MounthRolePlay**](https://discord.gg/mounthrp)
-* [**CIRCUS.FUN**](https://discord.gg/UGkzxuhVaD)
-* [**PEEKSENSE.WIN**](https://discord.gg/peeksense)
+* [**blikacz-szukacz.pl**](http://blikacz-szukacz.pl/)
 
 ----
 
