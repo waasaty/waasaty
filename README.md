@@ -2,11 +2,6 @@
 
 ----
 
-🛠️I’m currently working on:
-* [**blikacz-szukacz.pl**](http://blikacz-szukacz.pl/)
-
-----
-
 <details>
 <p align="center">
   <a href="https://github.com/waasaty">
