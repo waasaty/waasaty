@@ -11,6 +11,26 @@ to my personal GitHub profile!
 
 <hr>
 
+
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<strong>Listen cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 <p>Have a good day!</p>
 <div>
