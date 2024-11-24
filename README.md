@@ -22,7 +22,3 @@ to my personal GitHub profile!
 <p></p>
 <img src="https://profile-counter.glitch.me/waasaty/count.svg" alt="hit counter" align="center">
 </div>
-
-<div align="center">
-<img src="https://github.com/waasaty/waasaty/blob/main/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
-</div>
