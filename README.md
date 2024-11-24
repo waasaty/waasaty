@@ -13,7 +13,7 @@ to my personal GitHub profile!
 
 
 <!-- Social -->
-<table width="100%" align="center">
+<table width="100%" align="center" border="0px">
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
