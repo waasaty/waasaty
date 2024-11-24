@@ -11,9 +11,7 @@ to my personal GitHub profile!
 
 <hr>
 
-
-<!-- Social -->
-<table width="100%" align="center" border="0px">
+<table width="100%" align="center">
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
