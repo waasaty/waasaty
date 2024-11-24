@@ -14,7 +14,7 @@ to my personal GitHub profile!
 
 <!-- Social -->
 <table width="100%" align="center">
-<tr>
+
 <td align="center">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <strong>Listen cool music</strong>
@@ -28,7 +28,7 @@ to my personal GitHub profile!
 </p>
 
 </td>
-</tr>
+
 </table>
 
 <div align="center">
