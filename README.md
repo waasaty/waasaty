@@ -1,4 +1,4 @@
-### Hi, I'm coutstd, i have been learning how to create designs in Figma for some time now!
+### Hi
 
 ----
 
